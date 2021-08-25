@@ -35,6 +35,20 @@ def rref_calculator(matrix):
     """Applies algorithm to convert matrix to row-reduced echelon form."""
 
     # Time to consult that interesting algorithm I got from Purdue's website
+    # 1. Start at 0,0
+    # 2. Use elementary row operations to put a 1 at this point
+
+    for r in range(0, len(matrix)):
+        print(r)
+
+
+def operation_picker():
+    """Determines the most logical row operation to perform on a given matrix."""
+
+    # Is this even the best way to do it? How do I determine if I won't be screwing other things up?
+    # Guaranteed that the values to the left are 0 or there are none (farthest left) by def. of RREF algo
+    # All we have to do is check the other values in the column below to determine how we can make this element 0
+    # Use recursion
 
 if __name__ == "__main__":
     main()

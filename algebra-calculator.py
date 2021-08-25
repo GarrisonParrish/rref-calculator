@@ -13,14 +13,15 @@ import fractions
 # x = 5/2 FINISHED: output as 5/2
 # THis will definitely need an algebra library
 
-Y = 10
-M = 2
-B = 5
+Y = 11
+M = 222
+B = 53
 
 
 def main():
-    # ans: float = equation_solver(Y, M, B)
-    print(float_to_frac(5.5))
+    ans: float = equation_solver(Y, M, B)
+    print(ans)
+    print(float_to_frac(ans))  # converts ans to right format
 
 
 def equation_solver(y: float, m: float, b: float) -> float:

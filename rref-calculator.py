@@ -28,8 +28,13 @@ def matrix_input():
     # Now, prompt the user for input in each cell
     
     print(matrix)
+    # Thank God for Python's weird ability to not define return types in function declarations
     return matrix
 
+def rref_calculator(matrix):
+    """Applies algorithm to convert matrix to row-reduced echelon form."""
+
+    # Time to consult that interesting algorithm I got from Purdue's website
 
 if __name__ == "__main__":
     main()

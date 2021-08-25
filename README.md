@@ -26,4 +26,4 @@ as few moves as possible.**
 
 Fractions may present an issue, as will floating-point error in arithmetic operations.
 
-Inspired by [this](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref) online calculator.
+Inspired by [this](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref) online calculator and [this](https://rrefcalculator.com/) one.

@@ -29,3 +29,5 @@ Fractions may present an issue, as will floating-point error in arithmetic opera
 Inspired by [this](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref) online calculator and [this](https://rrefcalculator.com/) one.
 
 sympy has a function called Matrix.rref() that does this
+
+[stackoverflow answer](https://stackoverflow.com/questions/7664246/python-built-in-function-to-do-matrix-reduction) addressing this question

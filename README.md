@@ -25,3 +25,5 @@ at each step. There may be multiple steps to clear a column and move to the next
 as few moves as possible.**
 
 Fractions may present an issue, as will floating-point error in arithmetic operations.
+
+Inspired by [this](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi?c=rref) online calculator.

@@ -20,8 +20,8 @@ want to use my brain, dang it!
 3. Move down and to the right
 4. repeat until the last pivot is 1
 
-**NOTE:** There are many variations in the form that must be accounted for. The algorithm must decide on the best next choice
+**NOTE: There are many variations in the form that must be accounted for. The algorithm must decide on the best next choice
 at each step. There may be multiple steps to clear a column and move to the next row. We want to reach the solution in
-as few moves as possible.
+as few moves as possible.**
 
 Fractions may present an issue, as will floating-point error in arithmetic operations.

@@ -13,7 +13,7 @@ want to use my brain, dang it!
 
 ## Algorithm:
 1. Start at top right cell
-2. Eliminate all cells below (make them 0 using the following elementary row operations:
+2. Eliminate all cells below (make them 0) using the following elementary row operations:
 - Multiply rows by a nonzero scalar
 - Add rows
 - Swap rows
